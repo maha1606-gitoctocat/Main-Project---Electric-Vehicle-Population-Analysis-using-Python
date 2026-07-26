@@ -90,8 +90,8 @@ Performed descriptive statistics including:
 - Plug-in Hybrid Electric Vehicles (PHEVs): **432 (21.6%)**
 - Top Manufacturer: **Tesla** with **786** registered vehicles.
 - Most Registered EV Model: **Tesla Model Y** with **401** registrations, followed by **Tesla Model 3** with **299** registrations.
-- Top County: King County with **1,194 EV** registrations.
-- Top City: Seattle with **338 EV** registrations.
+- Top County: **King County** with **1,194 EV** registrations.
+- Top City: **Seattle** with **338 EV** registrations.
  
  **Average Electric Driving Range:**
 - BEVs: **60.76 miles**
@@ -100,8 +100,9 @@ Performed descriptive statistics including:
 - Eligible: **733**
 - Not Eligible: **180**
 - Unknown: **1,086**
-Highest Registration Year: **2023 with 393** vehicle registrations, indicating rapid growth in EV adoption.
-Highest Average Electric Range by Manufacturer: **Jaguar with 234.0 miles.**
+  
+- Highest Registration Year: **2023 with 393** vehicle registrations, indicating rapid growth in EV adoption.
+-  Highest Average Electric Range by Manufacturer: **Jaguar with 234.0 miles.**
 
 **Top 5 Manufacturers by Registration Count:**
 - Tesla – 786

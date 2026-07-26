@@ -93,16 +93,17 @@ Performed descriptive statistics including:
 - Top County: **King County** with **1,194 EV** registrations.
 - Top City: **Seattle** with **338 EV** registrations.
  
- **Average Electric Driving Range:**
+**Average Electric Driving Range:**
 - BEVs: **60.76 miles**
 - PHEVs: **31.81 miles**
- **CAFV Eligibility Distribution:**
+  
+**CAFV Eligibility Distribution:**
 - Eligible: **733**
 - Not Eligible: **180**
 - Unknown: **1,086**
   
 - Highest Registration Year: **2023 with 393** vehicle registrations, indicating rapid growth in EV adoption.
--  Highest Average Electric Range by Manufacturer: **Jaguar with 234.0 miles.**
+- Highest Average Electric Range by Manufacturer: **Jaguar with 234.0 miles.**
 
 **Top 5 Manufacturers by Registration Count:**
 - Tesla – 786

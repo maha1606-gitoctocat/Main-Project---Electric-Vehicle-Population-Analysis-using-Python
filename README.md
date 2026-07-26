@@ -6,7 +6,7 @@ A comprehensive Exploratory Data Analysis (EDA) project that uncovers electric v
 
 The rapid growth of Electric Vehicles (EVs) is transforming the automotive industry. This project analyzes an Electric Vehicle registration dataset to understand adoption patterns, identify leading manufacturers and models, evaluate vehicle performance, and generate business insights through data cleaning, feature engineering, statistical analysis, and visualization.
 
-The project demonstrates a complete Data Analytics workflow, from raw data preprocessing to actionable business insights.
+The project demonstrates a complete Data Analytics workflow, from raw data preprocessing to actionable insights.
 
 ## Project Objectives
 

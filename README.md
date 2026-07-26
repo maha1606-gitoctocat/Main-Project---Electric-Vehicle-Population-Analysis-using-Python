@@ -105,19 +105,20 @@ Performed descriptive statistics including:
 - Unknown: **1,086**
 Highest Registration Year: **2023 with 393** vehicle registrations, indicating rapid growth in EV adoption.
 Highest Average Electric Range by Manufacturer: **Jaguar with 234.0 miles.**
+
 Top 5 Manufacturers by Registration Count:
-**Tesla – 786
-Nissan – 151
-Chevrolet – 148
-Kia – 125
-BMW – 103**
+- Tesla – 786
+- Nissan – 151
+- Chevrolet – 148
+- Kia – 125
+- BMW – 103
 
 Top 5 EV Models by Registration Count:
-**Model Y – 401
-Model 3 – 299
-Leaf – 151
-Model S – 70
-Model X – 58**
+- Model Y – 401
+- Model 3 – 299
+- Leaf – 151
+- Model S – 70
+- Model X – 58
 
 
 ## Visualizations Included

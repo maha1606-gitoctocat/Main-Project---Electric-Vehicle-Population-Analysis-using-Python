@@ -123,7 +123,8 @@ Performed descriptive statistics including:
 ## Visualizations Included
 
 - Count Plots
-  
+ ![Alt text] (Chart Visuals/Distribution Range.png)
+ 
 - Bar Charts
   
 - Histograms

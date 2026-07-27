@@ -123,7 +123,8 @@ Performed descriptive statistics including:
 ## Visualizations Included
 
 - Count Plots
- ![Alt text] (Chart Visuals/Distribution Range.png)
+<img width="1366" height="730" alt="Distribution Range" src="https://github.com/user-attachments/assets/4a3e4dfd-1a21-4b49-9378-f8e9af678cb6" />
+
  
 - Bar Charts
   

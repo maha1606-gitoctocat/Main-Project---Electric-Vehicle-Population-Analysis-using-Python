@@ -125,18 +125,20 @@ Performed descriptive statistics including:
 - Count Plots
 <img width="1366" height="730" alt="Distribution Range" src="https://github.com/user-attachments/assets/4a3e4dfd-1a21-4b49-9378-f8e9af678cb6" />
 
- 
 - Bar Charts
-  
+ <img width="1366" height="730" alt="EV Types" src="https://github.com/user-attachments/assets/4d5822bd-8050-488e-8e35-36f2c8e1474c" />
+ 
 - Histograms
-  
-- Box Plots
-  
+  <img width="1366" height="730" alt="Histogram" src="https://github.com/user-attachments/assets/e163d231-a123-4a97-957c-34ad875b8732" />
+
 - Scatter Plots
-  
+ <img width="1366" height="730" alt="Relationship" src="https://github.com/user-attachments/assets/2e542018-4e7f-4ba1-8214-a9e419107bd8" />
+ 
 - Correlation Heatmap
-  
-- Pivot Table Heatmap
-  
+ <img width="1366" height="730" alt="Manufacturer vs Type" src="https://github.com/user-attachments/assets/175c6e86-54d5-4c92-91c5-8557942c5c53" />
+ 
 - Grouped Bar Charts
+<img width="1366" height="730" alt="Top 10 EV Models" src="https://github.com/user-attachments/assets/ed3c66fa-e505-4493-bfea-d1d0514a2c02" />
+
+
 

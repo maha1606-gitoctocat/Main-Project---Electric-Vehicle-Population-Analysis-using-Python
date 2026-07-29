@@ -1,4 +1,4 @@
-**Electric Vehicle (EV) Data Analysis using Python**
+# **Electric Vehicle (EV) Data Analysis using Python**
 
 A comprehensive Exploratory Data Analysis (EDA) project that uncovers electric vehicle adoption trends, manufacturer performance, geographic distribution, and vehicle characteristics using Python.
 
